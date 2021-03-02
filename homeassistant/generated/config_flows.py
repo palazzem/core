@@ -60,6 +60,7 @@ FLOWS = [
     "eafm",
     "ecobee",
     "econet",
+    "econnect_alarm",
     "elgato",
     "elkm1",
     "emonitor",
