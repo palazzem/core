@@ -275,6 +275,9 @@ dsmr_parser==0.28
 # homeassistant.components.dynalite
 dynalite_devices==0.1.46
 
+# homeassistant.components.econnect_alarm
+econnect-python==0.3.1
+
 # homeassistant.components.ee_brightbox
 eebrightbox==0.0.4
 
