@@ -533,7 +533,7 @@ ebusdpy==0.0.16
 ecoaliface==0.4.0
 
 # homeassistant.components.econnect_alarm
-econnect-python==0.3.1
+econnect-python==0.4.0.dev1
 
 # homeassistant.components.elgato
 elgato==2.1.1
